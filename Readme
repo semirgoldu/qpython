@@ -1,1 +1,30 @@
-This isa read mefile
+=============================
+QPython Example Scripts
+=============================
+
+This repository is a collection of QPython sample scripts than you can run directly on
+android.
+
+=============================
+Included Scripts
+=============================
+Google Search Script
+Wikipedia Search Script
+Saving Images from Google Image Search
+Chatterbot Google Search Logic Adapter
+Chatterbot Wikipedia Search Logic Adapter
+Chatterbot TTS Output Adapter
+Chatterbot STT Input Adapter
+Facedetection from CameraCapture
+Facedetection from Image File
+Facedetection from Live Camera Feed
+
+
+
+
+
+
+
+
+
+
